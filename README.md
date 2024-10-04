@@ -1,4 +1,4 @@
-### Unit 02 - Lesson 2: Meta and Link Tags
+### Unit 01 - Lesson 2: Meta and Link Tags
 
 #### **Objective:**
 
